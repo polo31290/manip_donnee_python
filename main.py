@@ -1,0 +1,1 @@
+#faire la boucle du jeu avec les input, si possible ajouter le drag and drop, et implanter une fonction pour ecrire tous les coups dans un autre fichier texte
